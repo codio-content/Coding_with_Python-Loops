@@ -1,15 +1,16 @@
-{Run the code}(node run-user.js squared.js)
+{Run the code}(python run-user.py squared.py)
 
 {Check It!|assessment}(test-147869595)
 
 |||guidance
 ## Solution
-```javascript
-input0 = 5
+```python
+input0 = input0(5)
+total = 0
 
-for( i=0, total=0 ; i <= input0 ; i++ ) {
+for i in range(0, input0 + 1):
   total = total + (i * i)
-}
+
 output(total)
 ```
 |||

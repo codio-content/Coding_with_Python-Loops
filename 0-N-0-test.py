@@ -1,14 +1,8 @@
 
-var test = require('./test-fw.js');
+import test
 
-test.tests('/home/codio/workspace/0-N-0.js', [{
-    inputs: [3],
-    outputs: [3,2,1],
-  }, {
-    inputs: [-3],
-    outputs: [-3,-2,-1],
-  }, {
-    inputs: [6],
-    outputs: [6,5,4,3,2,1],
-  }                                                         
-]);
+test.test('0-N-0.py', [3], [3,2,1])
+test.test('0-N-0.py', [-3], [-3,-2,-1])
+test.test('0-N-0.py', [6], [6,5,4,3,2,1])
+
+print 'Well done'

@@ -1,8 +1,7 @@
 
-for ( i=0; i<10; i++ ) {
-  console.log(i)
-  if (i == 7) {
+for i in range(0, 10):
+  print i
+  if i == 7:
     break
-  }
-}
-console.log('Finished.')
+
+print 'Finished.'

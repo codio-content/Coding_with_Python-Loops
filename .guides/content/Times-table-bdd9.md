@@ -1,16 +1,14 @@
-{Run the code}(node run-user.js times-table.js)
+{Run the code}(python run-user.py times-table.py)
 
 {Check It!|assessment}(test-788072892)
 
 |||guidance
 ## Solution
 
-```javascript
-input0 = 6
+```python
+input0 = input0(6)
 
-for (i=1; i<=12; i++) {
-  output( input0 * i )
-}
+for i in range(1, 13):
+  output(input0 * i)
 ```
-
 |||

@@ -1,9 +1,9 @@
 
-input0 = 10
+input0 = input0(10)
+total = 0
 
-for( ctr = 0, total = 0; ctr<=input0; ctr++ ) {
+for ctr in range(0, 10):
   total = total + ctr
   output(total)
-}
-
-output( 'Final total : ' + total)
+  
+output('Final total : ' + str(total))

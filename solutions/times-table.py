@@ -1,6 +1,5 @@
 
-input0 = 6
+input0 = input0(6)
 
-for (i=1; i<=12; i++) {
-  output( input0 * i )
-}
+for i in range(1, 13):
+  output(input0 * i)

@@ -261,39 +261,6 @@
    "teacherOnly": false
   },
   {
-   "id": "9dfd4f86-fb0b-f69a-573c-27a0dec04166",
-   "title": "A bit more on for",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "3-loops/for2.py",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/A-bit-more-on-for-9dfd.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "72b490a7-f150-b82b-26dd-53a1ffdf2d3",
-   "title": "ctr++, ctr--",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/ctr----ctr---72b4.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "483ada2-3b7b-349a-c689-d356899242e0",
    "title": "Challenges",
    "files": [

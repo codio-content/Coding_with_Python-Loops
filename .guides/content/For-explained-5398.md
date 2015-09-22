@@ -1,24 +1,21 @@
 Let's look at the `for` loop in more detail.
 
-```javascript
-for( ctr = 0, total = 0; ctr<=input0; ctr++ ) {
+```python
+for ctr in range(0, 10):
   total = total + ctr
   output(total)
-}
 ```
 
-Notce that there are 3 parts to the `for` statement ...
+Notce that there are 2 parts to the `for` statement ...
 
 ## Initialization
-`ctr = 0, total = 0; ` 
+`ctr` 
 
-This is the initialization part. You can have several Javascript statements separated by a `,`. At the end comes a `;`
+This is the initialization part where a variable is created to hold the value value update each iteration.
 
-## Condition
-`ctr<=input0;` this is the second section. It is the loop condition. The loop will execute until the condition is no longer true.
+## Range
 
-## End of loop statements
-`ctr++` any Javascript statements found here (if more than one, these are also separated by `,`) are executed at the end of the loop code block just before the condition is evaluated. 
+`range(0, 10)` this is the second section. It defines the start and end values the loop must iterate between.
 
-## What is ctr++?
-Explained in a moment.
+## Increment
+`range(start, end, increment)` the range function can take a third paramater, the amount to increment the variable by each iteration. If only two paramaters are supplied the variable will be incremented by `1`. Negative numbers can be supplied to loop backwards.

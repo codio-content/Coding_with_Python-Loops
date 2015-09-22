@@ -1,17 +1,14 @@
-Test your code here before using the Check It button : {Run}(node run-user.js N-0.js)
-
-Beware the infinite loop!
+Test your code here before using the Check It button : {Run}(python run-user.py N-0.py)
 
 {Check It!|assessment}(test-635686108)
 
 |||guidance
 ## Solution
-```javascript
-input0 = 10
+```python
+input0 = input0(10)
 
-while ( input0 >= 0 ) {
+while input0 >= 0:
   output(input0)
   input0 = input0 - 1
-}
 ```
 |||

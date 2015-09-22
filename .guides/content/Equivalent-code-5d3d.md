@@ -1,6 +1,6 @@
 On the left is the equivalent code.
 
-{Run the code}(node run-user.js 2-loops/utility.js)
+{Run the code}(python run-user.py 2-loops/utility.py)
 
 Here's a reminder of the Flode chart.
 
