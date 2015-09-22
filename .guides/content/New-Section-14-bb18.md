@@ -1,0 +1,2 @@
+## The challenges
+We will now reinforce the concept of loops with a series of challenges that will get a bit harder with each one. By the end, you have most of the tools you need to start on more challenging algorithms.
