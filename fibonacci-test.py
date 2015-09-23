@@ -7,4 +7,4 @@ test.test('fibonacci.py', [0], [0])
 test.test('fibonacci.py', [1], [0,1])
 test.test('fibonacci.py', [-1], [])
 
-print 'Well done'
+print('Well done')

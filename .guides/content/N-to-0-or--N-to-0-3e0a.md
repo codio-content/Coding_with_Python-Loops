@@ -1,4 +1,4 @@
-Test your code here first {Run}(python run-user.py 0-N-0.py)
+Test your code here first {Run}(python3 run-user.py 0-N-0.py)
 
 {Check It!|assessment}(test-1027007121)
 

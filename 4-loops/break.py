@@ -1,7 +1,7 @@
 
 for i in range(0, 10):
-  print i
+  print(i)
   if i == 7:
     break
 
-print 'Finished.'
+print('Finished.')

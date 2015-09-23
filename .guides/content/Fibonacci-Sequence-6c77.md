@@ -12,7 +12,7 @@ The next number is found by adding up the two numbers before it.
 
 and so on!
 
-{Run the code}(python run-user.py fibonacci.py)
+{Run the code}(python3 run-user.py fibonacci.py)
 
 {Check It!|assessment}(test-3185812231)
 

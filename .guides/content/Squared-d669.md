@@ -1,4 +1,4 @@
-{Run the code}(python run-user.py squared.py)
+{Run the code}(python3 run-user.py squared.py)
 
 {Check It!|assessment}(test-147869595)
 

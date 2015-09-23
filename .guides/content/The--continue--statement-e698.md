@@ -4,4 +4,4 @@ It simply jumps to the end of the loop so execution can continue onwards from th
 
 The example on the left shows a loop that skips displaying the loop counter if it is an odd number.
 
-{Run the code}(python run-user.py 4-loops/continue.py)
+{Run the code}(python3 run-user.py 4-loops/continue.py)

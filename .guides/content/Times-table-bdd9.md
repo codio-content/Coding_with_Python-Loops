@@ -1,4 +1,4 @@
-{Run the code}(python run-user.py times-table.py)
+{Run the code}(python3 run-user.py times-table.py)
 
 {Check It!|assessment}(test-788072892)
 

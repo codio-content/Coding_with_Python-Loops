@@ -1,5 +1,4 @@
 
-import linecache
 import sys
 
 inputs = []
@@ -20,14 +19,11 @@ def input2(v):
 def output(v):
   global outputs
   outputs.append(v)
-  # print v
+  # print(v)
 
 def printException():
     exc_type, exc_obj, tb = sys.exc_info()
-    f = tb.tb_frame
-    filename = f.f_code.co_filename
-    lineno = tb.tb_lineno
-    print exc_obj  
+    print(exc_obj)  
 
 def test(_file, _inputs, _outputs, _message = 'Not quite right please try again'):
   global outputs
@@ -37,14 +33,14 @@ def test(_file, _inputs, _outputs, _message = 'Not quite right please try again'
   inputs = _inputs
   
   try:
-    execfile(_file)
+    exec(open(_file).read())
 
     if len(outputs) != len(_outputs):
       print('Your program is not outputting the expected number of outputs')
       exit(1)
 
-    # print outputs
-    # print _outputs
+    # print(outputs)
+    # print(_outputs)
       
     for i in range(len(outputs)):
       if outputs[i] != _outputs[i]:

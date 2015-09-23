@@ -1,5 +1,4 @@
 
-import linecache
 import sys
 
 def input0(v):
@@ -12,17 +11,14 @@ def input2(v):
   return v
 
 def output(v):
-  print v
+  print(v)
 
 def printException():
     exc_type, exc_obj, tb = sys.exc_info()
-    f = tb.tb_frame
-    filename = f.f_code.co_filename
-    lineno = tb.tb_lineno
-    print exc_obj  
+    print(exc_obj)
   
 try:
-  execfile(sys.argv[1])
+  exec(open(sys.argv[1]).read())
   
   exit(0)
 except (IOError, SyntaxError, NameError) as e:

@@ -1,4 +1,4 @@
-Test your code here before using the Check It button : {Run}(python run-user.py N-0.py)
+Test your code here before using the Check It button : {Run}(python3 run-user.py N-0.py)
 
 {Check It!|assessment}(test-635686108)
 
