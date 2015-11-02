@@ -12,20 +12,21 @@ The next number is found by adding up the two numbers before it.
 
 and so on!
 
-{Run the code}(python3 run-user.py fibonacci.py)
-
 {Check It!|assessment}(test-3185812231)
 
 |||guidance
 ## Solution
 ```python
-input0 = input0(8)
+# Get N from the command line
+N= sys.argv[2]
+
+# Your code goes here
 next = 1
 current = 0
 fib = 0
 
-for ctr in range(0, input0 + 1):
-  output(fib)
+for ctr in range(0, N + 1):
+  print(fib)
   fib = next + current
   next = current
   current = fib

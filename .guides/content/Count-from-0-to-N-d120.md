@@ -1,15 +1,15 @@
-Test your code here before using the Check It button : {Run}(python3 run-user.py 0-N.py)
-
 {Check It!|assessment}(test-64983983)
 
 |||guidance
 ## Solution
 ```python
-input0 = input0(7)
-ctr = 0
+# Get N from the command line
+N = sys.argv[2]
 
-while ctr <= input0:
-  output(ctr)
+# Your code goes here
+ctr = 0
+while ctr <= N:
+  print(ctr)
   ctr = ctr + 1
 ```
 |||

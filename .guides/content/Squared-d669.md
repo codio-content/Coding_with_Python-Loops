@@ -1,16 +1,16 @@
-{Run the code}(python3 run-user.py squared.py)
-
 {Check It!|assessment}(test-147869595)
 
 |||guidance
 ## Solution
 ```python
-input0 = input0(5)
-total = 0
+# Get N from the command line
+N= sys.argv[2]
 
-for i in range(0, input0 + 1):
+# Your code goes here
+total = 0
+for i in range(0, N + 1):
   total = total + (i * i)
 
-output(total)
+print(total)
 ```
 |||

@@ -26,7 +26,7 @@
      "action": "close"
     },
     {
-     "path": "experiment.py",
+     "path": "content/experiment.py",
      "panel": 0,
      "action": "open"
     }
@@ -48,7 +48,7 @@
      "action": "close"
     },
     {
-     "path": "1-loops/example.flode",
+     "path": "content/1-loops/example.flode",
      "panel": 0,
      "action": "open"
     }
@@ -72,7 +72,7 @@
      "action": "close"
     },
     {
-     "path": "1-loops/while.py",
+     "path": "content/1-loops/while.py",
      "panel": 0,
      "action": "open"
     }
@@ -105,7 +105,7 @@
      "action": "close"
     }
    ],
-   "layout": "",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenges-bb18.md",
@@ -122,12 +122,12 @@
      "action": "close"
     },
     {
-     "path": "0-N.py",
+     "path": "challenges/0-N.py",
      "panel": 0,
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Count-from-0-to-N-d120.md",
@@ -144,7 +144,7 @@
      "action": "close"
     },
     {
-     "path": "N-0.py",
+     "path": "challenges/N-0.py",
      "panel": 0,
      "action": "open"
     }
@@ -166,7 +166,7 @@
      "action": "close"
     },
     {
-     "path": "0-N-0.py",
+     "path": "challenges/0-N-0.py",
      "panel": 0,
      "action": "open"
     }
@@ -188,7 +188,7 @@
      "action": "close"
     },
     {
-     "path": "2-loops/utility.flode",
+     "path": "content/2-loops/utility.flode",
      "panel": 0,
      "action": "open"
     }
@@ -212,7 +212,7 @@
      "action": "close"
     },
     {
-     "path": "2-loops/utility.py",
+     "path": "content/2-loops/utility.py",
      "panel": 0,
      "action": "open"
     }
@@ -234,7 +234,7 @@
      "action": "close"
     },
     {
-     "path": "3-loops/for1.py",
+     "path": "content/3-loops/for1.py",
      "panel": 0,
      "action": "open"
     }
@@ -286,7 +286,7 @@
      "action": "close"
     },
     {
-     "path": "times-table.py",
+     "path": "challenges/times-table.py",
      "panel": 0,
      "action": "open"
     }
@@ -308,7 +308,7 @@
      "action": "close"
     },
     {
-     "path": "factorial.py",
+     "path": "challenges/factorial.py",
      "panel": 0,
      "action": "open"
     }
@@ -330,7 +330,7 @@
      "action": "close"
     },
     {
-     "path": "squared.py",
+     "path": "challenges/squared.py",
      "panel": 0,
      "action": "open"
     }
@@ -352,7 +352,7 @@
      "action": "close"
     },
     {
-     "path": "xy.py",
+     "path": "challenges/xy.py",
      "panel": 0,
      "action": "open"
     }
@@ -374,7 +374,7 @@
      "action": "close"
     },
     {
-     "path": "fibonacci.py",
+     "path": "challenges/fibonacci.py",
      "panel": 0,
      "action": "open"
     }
@@ -396,7 +396,7 @@
      "action": "close"
     },
     {
-     "path": "4-loops/break.py",
+     "path": "content/4-loops/break.py",
      "panel": 0,
      "action": "open"
     }
@@ -420,7 +420,7 @@
      "action": "close"
     },
     {
-     "path": "4-loops/continue.py",
+     "path": "content/4-loops/continue.py",
      "panel": 0,
      "action": "open"
     }

@@ -1,19 +1,20 @@
-{Run the code}(python3 run-user.py xy.py)
-
 {Check It!|assessment}(test-3599143521)
 
 |||guidance
 ## Solution
 ```python
-input0 = input0(2)
-input1 = input1(4)
+# Get X and Y from the command line
+X= sys.argv[2]
+Y= sys.argv[3]
+
+# Your code goes here
 total = 1
 
-if input1 == 0:
-  output (1)
+if Y == 0:
+  print (1)
 else:
-  for i in range(0, input1):
-    total = total * input0
-  output(total)
+  for i in range(0, Y):
+    total = total * X
+  print(total)
 ```
 |||
