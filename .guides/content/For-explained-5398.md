@@ -17,4 +17,4 @@ This is the initialization part where a variable is created to hold the value to
 `range(0, 10)` is the second section. It defines the start and end values the loop must iterate between. Note that range goes from [0..9], including the first argument, but excluding the last.
 
 ## Increment
-`range(start, end, increment)` the range function can take a third paramater, the amount to increment the variable by each iteration. If only two paramaters are supplied the variable will be incremented by `1`. Negative numbers can be supplied to loop backwards.
+`range(start, end, increment)` the range function can take a third parameter, the amount to increment the variable by each iteration. If only two parameters are supplied the variable will be incremented by `1`. Negative numbers can be supplied to loop backwards.

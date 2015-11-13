@@ -1,6 +1,7 @@
 
 # Get X and Y from the command line
-X= sys.argv[2]
-Y= sys.argv[3]
+import sys
+X= int(sys.argv[1])
+Y= int(sys.argv[2])
 
 # Your code goes here
