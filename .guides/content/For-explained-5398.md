@@ -1,9 +1,9 @@
 Let's look at the `for` loop in more detail.
 
 ```python
-for ctr in range(0, 10):
-  total = total + ctr
-  print(total)
+7  for ctr in range(0, N +1):  # we use N +1 because range(0,10) = [0..9]
+8    total = total + ctr       # increase our total by the loop amount
+9    print(str(total))         # output the total as far
 ```
 
 Notce that there are 2 parts to the `for` statement ...
