@@ -26,4 +26,4 @@ Feel free to change some of the values in the code and run it again (button belo
 
 {Run}(python3 content/1-loops/while.py)
  
-Remember, you can reset the code from the Settings menu at the top. Select the Reset Chapter option.
+Remember, you can reset the code from the **'Settings'** menu at the top. Select the **'Restore current files'** option.

@@ -436,7 +436,13 @@
   {
    "id": "2d10ccca-4731-3565-a2fc-fef88b66ff9",
    "title": "All done",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/All-done-2d10.md",
