@@ -14,7 +14,7 @@ Notce that there are 2 parts to the `for` statement ...
 This is the initialization part where a variable is created to hold the value to update on each iteration.
 
 ## Range
-`range(0, 10)` is the second section. It defines the start and end values the loop must iterate between. Note that range goes from [0..9], including the first argument, but excluding the last.
+`range(0, N +1)` is the second section. It defines the start and end values the loop must iterate between. Note that range goes from the first number to the last, including the first argument, but excluding the last.
 
 ## Increment
 `range(start, end, increment)` the range function can take a third parameter, the amount to increment the variable by each iteration. If only two parameters are supplied the variable will be incremented by `1`. Negative numbers can be supplied to loop backwards.
