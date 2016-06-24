@@ -1,1 +1,1 @@
-We will now reinforce the concept of loops with a series of challenges that will get a bit harder with each one. By the end, you have most of the tools you need to start on more challenging algorithms.
+Now it’s time to try some challenges that will test you on what you have learned about loops so far. The challenges get more difficult as you progress - by the time you have completed them you will be ready to start on some more complex algorithms.

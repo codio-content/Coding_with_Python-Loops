@@ -1,6 +1,6 @@
-This Unit introduces you to the concept of loops using code.
+This unit introduces you to the concept of using loops in code.
 
-They may look a little scary but you'll get the hang of them very quickly.
+They might look a bit scary but you'll get the hang of them very quickly.
 
 ### A for loop
 ```python

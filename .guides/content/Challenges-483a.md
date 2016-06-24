@@ -1,3 +1,3 @@
-Next up is a final set of challenges which require the use of utility variables.
+Here is a final set of challenges for you to complete. These challenges require the use of utility variables.
 
-Please use the `for` statement for this, not the `while`.
+When you are completing the following challenges, use the `for` statement,  and not the `while`.

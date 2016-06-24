@@ -1,0 +1,130 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-1027007121",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "N to 0 or -N to 0",
+   "instructions": "This is a tricky challenge for you. \n\nWe will pass in a value N. N can be positive or negative.\n\n- If N is positive then output all values from N down to and **excluding** 0.\n- If N is negative, then output every value from N up to and **excluding** 0.",
+   "command": "tests/0-N-0-test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-147869595",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Squared",
+   "instructions": "We will provide you with a value N. You should calculate the sum of each value of N squared from 0 up to and including N.\n\nIn mathematical notation, this is written as $ \\sum_{i=0}^N i^2 $\n\nSo if we passed in 3, you would output $ 0^2 + 1^2 + 2^2 + 3^2  = 14 $",
+   "command": "tests/squared-test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3185812231",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Fibonacci",
+   "instructions": "We will pass in a value N. Write a program that outputs the complete Fibonacci sequence for N iterations. \n\n**Important:** If N is 0, then we expect to get an output of `0`. If N=1 then we expect `0, 1` etc.",
+   "command": "tests/fibonacci-test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3376902811",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Factorial",
+   "instructions": "We provide you with a value N. Calculate N! and output only the final result.",
+   "command": "tests/factorial-test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3599143521",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "X to the Y",
+   "instructions": "We will pass in 2 values, X and Y. You should calculate $ X^Y $ and output only the final result.\n\nYou will probably know that $ X^Y $ can be calculated as X times itself Y times.",
+   "command": "tests/xy-test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-635686108",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "N to 0",
+   "instructions": "We will pass you a value, N. You should output every positive value from N down to and including 0.\n",
+   "command": "tests/N-0-test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-64983983",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "0 to N",
+   "instructions": "We will pass in a value, N. You should write a program that outputs all values from 0 up to an including N.",
+   "command": "tests/0-N-test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-788072892",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Times table",
+   "instructions": "We will provide you with a number N. Output the times table for that number from 1 to 12.\n\nSo, if we pass in 6, you should output 6, 12, 18, 24 .... 66, 72",
+   "command": "tests/times-table-test.sh",
+   "points": 1
+  }
+ }
+]

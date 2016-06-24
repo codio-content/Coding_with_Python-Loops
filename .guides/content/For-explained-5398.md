@@ -6,15 +6,13 @@ Let's look at the `for` loop in more detail.
 9    print(str(total))         # output the total as far
 ```
 
-Notce that there are 2 parts to the `for` statement ...
+Notice that there are two parts to the `for` statement ...
 
 ## Initialization
-`ctr` 
-
-This is the initialization part where a variable is created to hold the value to update on each iteration.
+`ctr`  is the initialization part. Here a variable is created to hold the value to be updated on each iteration.
 
 ## Range
 `range(0, N +1)` is the second section. It defines the start and end values the loop must iterate between. Note that range goes from the first number to the last, including the first argument, but excluding the last.
 
 ## Increment
-`range(start, end, increment)` the range function can take a third parameter, the amount to increment the variable by each iteration. If only two parameters are supplied the variable will be incremented by `1`. Negative numbers can be supplied to loop backwards.
+`range(start, end, increment)` is the amount to increment the variable by at each iteration. If only two parameters are supplied the variable will be incremented by `1`. Negative numbers can be used to increment, these will loop backwards.
