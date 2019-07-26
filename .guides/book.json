@@ -1,0 +1,151 @@
+{
+ "name": "Coding_with_Python-Loops",
+ "children": [
+  {
+   "title": "Loops",
+   "id": "f2ba496d-9d9d-bba9-3fa-450d3aaeddc3",
+   "pageId": "f2ba496d-9d9d-bba9-3fa-450d3aaeddc3",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Experiments",
+     "id": "a5d7e34-7ff8-d078-86c4-b992cdcf3bff",
+     "pageId": "a5d7e34-7ff8-d078-86c4-b992cdcf3bff",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Loops overview",
+   "id": "c8136e6a-a497-2142-83a4-719e2a1b98dc",
+   "pageId": "c8136e6a-a497-2142-83a4-719e2a1b98dc",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "A 'while' loop",
+     "id": "e21d4083-c87f-f251-7bf6-ca5eca7eadd0",
+     "pageId": "e21d4083-c87f-f251-7bf6-ca5eca7eadd0",
+     "type": "page"
+    },
+    {
+     "title": "While explained",
+     "id": "f8289a94-27dd-b97d-ecad-335dc113364b",
+     "pageId": "f8289a94-27dd-b97d-ecad-335dc113364b",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Challenges",
+   "id": "bb18fce0-1bb8-7ea2-bd3c-da9e57f3788f",
+   "pageId": "bb18fce0-1bb8-7ea2-bd3c-da9e57f3788f",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Count from 0 to N",
+     "id": "d120b532-c104-3991-9768-8e86b3b1c90",
+     "pageId": "d120b532-c104-3991-9768-8e86b3b1c90",
+     "type": "page"
+    },
+    {
+     "title": "Count from N to 0",
+     "id": "4d65d79-f549-5f12-937-19ca5355139e",
+     "pageId": "4d65d79-f549-5f12-937-19ca5355139e",
+     "type": "page"
+    },
+    {
+     "title": "N to 0 or -N to 0",
+     "id": "3e0a81c0-5191-d600-a70-570064df69c1",
+     "pageId": "3e0a81c0-5191-d600-a70-570064df69c1",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Utility variables",
+   "id": "549ea2b1-6555-f548-30d0-1cdb5588f860",
+   "pageId": "549ea2b1-6555-f548-30d0-1cdb5588f860",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Equivalent code",
+     "id": "5d3dbe96-21a-379b-472e-3910f875cff8",
+     "pageId": "5d3dbe96-21a-379b-472e-3910f875cff8",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "For loops",
+   "id": "5c748613-e799-7ea0-6877-8ff8c94db4b1",
+   "pageId": "5c748613-e799-7ea0-6877-8ff8c94db4b1",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "For explained",
+     "id": "5398b862-1d1b-1654-981a-7d50e238a689",
+     "pageId": "5398b862-1d1b-1654-981a-7d50e238a689",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Challenges",
+   "id": "483ada2-3b7b-349a-c689-d356899242e0",
+   "pageId": "483ada2-3b7b-349a-c689-d356899242e0",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Times table",
+     "id": "bdd97ab-f0bd-48ef-f2ed-43e653a93b4c",
+     "pageId": "bdd97ab-f0bd-48ef-f2ed-43e653a93b4c",
+     "type": "page"
+    },
+    {
+     "title": "Factorial",
+     "id": "a0c1ed31-7d47-7fc3-5a41-b114a76ca91f",
+     "pageId": "a0c1ed31-7d47-7fc3-5a41-b114a76ca91f",
+     "type": "page"
+    },
+    {
+     "title": "Squared",
+     "id": "d669f314-2594-e078-4de6-9a953f74265f",
+     "pageId": "d669f314-2594-e078-4de6-9a953f74265f",
+     "type": "page"
+    },
+    {
+     "title": "X to the Y",
+     "id": "8a46b660-c34a-57f8-d24a-afff936c10d3",
+     "pageId": "8a46b660-c34a-57f8-d24a-afff936c10d3",
+     "type": "page"
+    },
+    {
+     "title": "Fibonacci sequence",
+     "id": "6c77311f-b329-3f21-5778-76ee465450d0",
+     "pageId": "6c77311f-b329-3f21-5778-76ee465450d0",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "The 'break' statement",
+   "id": "75705031-fb5d-8605-394d-d1f5450959a1",
+   "pageId": "75705031-fb5d-8605-394d-d1f5450959a1",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "The 'continue' statement",
+     "id": "e698af4b-13aa-1f46-997d-2a50389a79d0",
+     "pageId": "e698af4b-13aa-1f46-997d-2a50389a79d0",
+     "type": "page"
+    },
+    {
+     "title": "All done",
+     "id": "2d10ccca-4731-3565-a2fc-fef88b66ff9",
+     "pageId": "2d10ccca-4731-3565-a2fc-fef88b66ff9",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
