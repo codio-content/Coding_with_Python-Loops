@@ -99,16 +99,36 @@
   "type": "test",
   "taskId": "test-64983983",
   "source": {
-   "showName": false,
-   "answers": [],
-   "tokens": {
-    "blank": [],
-    "text": []
-   },
    "name": "0 to N",
-   "instructions": "We will pass in a value, N. You should write a program that outputs all values from 0 up to an including N.",
+   "showName": false,
+   "instructions": "We will pass in a value, N. You should write a program that outputs all values from 0 up to and including N.",
    "command": "tests/0-N-test.sh",
-   "points": 1
+   "arePartialPointsAllowed": false,
+   "timeoutSeconds": 40,
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 1,
+   "oneTimeTest": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Advanced Code Test"
+     }
+    ],
+    "files": [
+     "challenges/0-N.py"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "challenges/0-N.py"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
   }
  },
  {
